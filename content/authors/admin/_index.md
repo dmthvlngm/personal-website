@@ -25,7 +25,7 @@ role: Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'dthvlngm@protonmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dmthvlngm
