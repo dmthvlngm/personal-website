@@ -42,4 +42,4 @@ user_groups:
 - Visitors
 ---
 
-Hi there! I'm Donald Thevalingam and I do data science. Designing experiments, acquiring and cleaning raw data, exploratory data analysis, statistical modeling, and visualization make up the better part of my daily workflow. I enjoy deriving insights from messy data and building the narrative that goes with it. Not to long ago, I studied how molecules move inside the narrow spaces of the brain inside the African Naked mole-rat, built a custom microscope to take 3D images of cleared tissue, and quickly discovered an addication to coffee.
+Hi there! I'm Donald Thevalingam and I do data science 📊⚗️. Designing experiments, acquiring and cleaning raw data, exploratory data analysis, statistical modeling, and visualization make up the better part of my daily workflow. I enjoy deriving insights from messy data and building the narrative that goes with it. Not to long ago, I studied how molecules move inside the narrow spaces of the brain inside the African Naked mole-rat, built a custom microscope to take 3D images of cleared tissue, and quickly discovered an addication to coffee ☕.
